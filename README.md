@@ -1,6 +1,6 @@
 # PawTalk - Rede Social para Amantes de Pets
 
-![PawTalk Logo](public/images/pawtalk-logo.png)
+![Image](https://github.com/user-attachments/assets/a9db95e7-fd5d-470d-8c62-13da8d02fa7c)
 
 PawTalk é uma rede social inovadora que combina elementos do Instagram e Twitter (X), especialmente projetada para amantes de animais. A plataforma permite que usuários, pets (através de seus donos) e empresas do setor pet compartilhem fotos, pensamentos e interajam em uma comunidade dedicada ao mundo animal.
 
