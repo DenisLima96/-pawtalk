@@ -90,12 +90,6 @@ pnpm dev
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-## 📸 Screenshots
-
-![Tela Inicial](public/screenshots/home.png)
-![Feed](public/screenshots/feed.png)
-![Perfil](public/screenshots/profile.png)
-![Explorar](public/screenshots/explore.png)
 
 ## 🔮 Funcionalidades Futuras
 
@@ -117,4 +111,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido com 💚 por [Seu Nome] - 2025
+Desenvolvido  por Denis Lima  - 2025
